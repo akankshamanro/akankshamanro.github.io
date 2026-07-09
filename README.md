@@ -1,5 +1,4 @@
-# akankshamanro.github.io
-Personal website portfolio
+
 # AKANKSHA MANRO
 **Candidate for M.C.S. in Applied Artificial Intelligence**  
 Ottawa, ON, Canada | akankshamanro2@gmail.com
